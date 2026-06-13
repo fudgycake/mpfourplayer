@@ -16,7 +16,7 @@ FITUR UTAMA
 * Kode sumber terbuka (open-source) untuk dipelajari bersama.
 
 ------------------------------------------------------------------------
-TEKNOLOGI YANG DIGUNAKAN
+BAHASA YANG DIGUNAKAN
 ------------------------------------------------------------------------
 * Kode dasar dibuat menggunakan Codex.
 * Bahasa Pemograman: C++.
